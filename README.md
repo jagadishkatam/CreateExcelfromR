@@ -13,7 +13,7 @@ This R script generates an Excel workbook using the `iris` dataset, with each un
 
 ## Requirements
 
-- R (version X.X or later)
+- R (version 4.4.1 or later)
 - Packages: 
   - `openxlsx`: For creating and manipulating Excel files.
   - `dplyr`: For data manipulation.
@@ -28,3 +28,7 @@ install.packages("openxlsx")
 install.packages("dplyr")
 install.packages("purrr")
 ```
+
+### The generated Excel file can be found at:
+
+[sample_with_hyperlinks.xlsx](./data/sample_with_hyperlinks.xlsx)
