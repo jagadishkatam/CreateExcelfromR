@@ -33,6 +33,6 @@ install.packages("purrr")
 
 [sample_with_hyperlinks.xlsx](./data/sample_with_hyperlinks.xlsx)
 
-[Hyperlinks Cover Page](./man/figures/Screenshot 2024-11-06 150745.png)
+![Hyperlinks Cover Page](./man/figures/Screenshot 2024-11-06 150745.png)
 
-[Data worksheet](./man/figures/Screenshot 2024-11-06 151119.png)
+![Data worksheet](./man/figures/Screenshot 2024-11-06 151119.png)
