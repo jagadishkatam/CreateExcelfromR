@@ -33,6 +33,6 @@ install.packages("purrr")
 
 [sample_with_hyperlinks.xlsx](./data/sample_with_hyperlinks.xlsx)
 
-![Hyperlinks Cover Page](https://github.com/jagadishkatam/CreateExcelfromR/tree/main/man/figures/Screenshot1.png)
+![Hyperlinks Cover Page](https://github.com/jagadishkatam/CreateExcelfromR/man/figures/Screenshot1.png)
 
-![Data worksheet](https://github.com/jagadishkatam/CreateExcelfromR/tree/main/man/figures/Screenshot2.png)
+![Data worksheet](https://github.com/jagadishkatam/CreateExcelfromR/man/figures/Screenshot2.png)
