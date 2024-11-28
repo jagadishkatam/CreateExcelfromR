@@ -35,4 +35,4 @@ install.packages("purrr")
 
 ![Hyperlinks Cover Page](https://github.com/jagadishkatam/CreateExcelfromR/blob/main/man/figures/Screenshot1.png)
 
-![Data worksheet](https://github.com/jagadishkatam/CreateExcelfromR/man/figures/Screenshot2.png)
+![Data worksheet](https://github.com/jagadishkatam/CreateExcelfromR/blob/main/man/figures/Screenshot2.png)
